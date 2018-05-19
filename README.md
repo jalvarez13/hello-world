@@ -1,2 +1,3 @@
 # hello-world
-firts repp
+first repo
+I am an electronics engineer from Chile
